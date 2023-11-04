@@ -38,3 +38,16 @@ Before you get started, ensure you have the following installed on your system:
 - [Node.js](https://nodejs.org/) (v16.0 or higher)
 - [npm](https://www.npmjs.com/) (v7.0 or higher)
 
+## Usage
+
+Customize the website by editing the source files in the `src` directory. You can add your project information, update your skills and experiences, and make any design changes to match your preferences.
+
+## Technologies Used
+
+- [Vite](https://vitejs.dev/): Build tool for modern web development.
+- [React](https://reactjs.org/): JavaScript library for building user interfaces.
+- [TypeScript](https://www.typescriptlang.org/): Superset of JavaScript that adds static types.
+- [Tailwind CSS](https://tailwindcss.com/): Utility-first CSS framework.
+- [React Router](https://reactrouter.com/): Declarative routing for React.
+
+
