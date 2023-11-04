@@ -1,27 +1,40 @@
-# React + TypeScript + Vite
+# My Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio website! This project showcases my skills, projects, and experiences in a user-friendly and visually appealing manner. 
 
-Currently, two official plugins are available:
+![Portfolio Screenshot](screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
 
-## Expanding the ESLint configuration
+- [Overview](#overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Overview
 
-- Configure the top-level `parserOptions` property like this:
+My portfolio website is built using Vite, React, and TypeScript. It is designed to provide a comprehensive overview of my skills, projects, and experiences to potential employers, collaborators, and anyone interested in my work. The website is responsive, ensuring a seamless experience on both desktop and mobile devices.
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+## Features
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- **Responsive Design:** The website is fully responsive, adapting to various screen sizes and devices.
+- **Projects Showcase:** Display your projects with descriptions, images, and links.
+- **About Me Section:** Share your background, skills, and experiences with visitors.
+- **Contact Information:** Provide contact information, such as email and social media links.
+- **Dynamic Content:** Easily update and add new projects and content.
+
+## Getting Started
+
+### Prerequisites
+
+Before you get started, ensure you have the following installed on your system:
+
+- [Node.js](https://nodejs.org/) (v16.0 or higher)
+- [npm](https://www.npmjs.com/) (v7.0 or higher)
+
