@@ -2,7 +2,8 @@
 
 Welcome to my portfolio website! This project showcases my skills, projects, and experiences in a user-friendly and visually appealing manner. 
 
-![Portfolio Screenshot](screenshot.png)
+<img width="1493" alt="Screenshot 2023-11-16 at 14 23 57" src="https://github.com/MC-161/MC/assets/95971638/24149fab-d551-4d3c-b2f4-31a98ae0d2d0">
+
 
 ## Table of Contents
 
