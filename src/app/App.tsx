@@ -45,8 +45,8 @@ function App() {
           >
             {!isMobile && (
               <div className="flex gap-4">
-                <img src={Linkedin} alt="LinkedIn Icon" />
-                <img src={github} alt="GitHub Icon" />
+                <a href="https://www.linkedin.com/in/mahfuz-chowdhury-84708029b/"><img src={Linkedin} alt="LinkedIn Icon" /></a>
+                <a href="https://github.com/MC-161"><img src={github} alt="GitHub Icon" /></a>
               </div>
             )}
             {isMobile ? undefined : (
