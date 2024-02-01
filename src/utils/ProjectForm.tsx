@@ -70,7 +70,7 @@ const ProjectForm: React.FC<ProjectFormProps> = ({ onAddProject }) => {
   };
 
   return (
-    <form onSubmit={handleSubmit} className="bg-white p-4 rounded-lg shadow-md mt-10">
+    <form onSubmit={handleSubmit} className="bg-black p-4 rounded-lg shadow-md mt-10 text-black">
       <div className="mb-4">
         <label className="block text-gray-700 font-bold mb-2">Title:</label>
         <input

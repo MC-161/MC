@@ -15,13 +15,6 @@ export default function AboutDesktop() {
               Currently studying a bachelors of science in Computer science with
               interests in Artificial Intelligence and Full stack Development.
             </p>
-            <p className="text-justify pr-10 pt-4">
-              Currently studying a bachelors of science in Computer science with
-              interests in Artificial Intelligence and Full stack
-              Development.Currently studying a bachelors of science in Computer
-              science with interests in Artificial Intelligence and Full stack
-              Development.
-            </p>
           </div>
           <div className="technologies">
             <LanguagesList />
