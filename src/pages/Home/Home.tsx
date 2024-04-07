@@ -30,7 +30,7 @@ const Home = () => {
             className={`lg:text-left txt`}
           >
             <h1 className="font-serif text-white text-4xl lg:text-[80px] lg:mb-10">
-              Hey, I'm MC
+              Hello, I'm MC
             </h1>
             <h2 className="font-serif text-white text-3xl lg:text-5xl">
               I Make{" "}
